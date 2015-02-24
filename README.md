@@ -17,8 +17,8 @@ Homework
 
 1. Create a Rails project that has no Views, only returns an API
 2. I should be able to run the attached file `jsonit.rb` with no errors
-3. It will create log entries, and search for them. So, you'll need an index and
-   create action under `/api/logs`
+3. It will create log entries, and search for them. So, you'll need an index,
+   show, and create action under `/api/logs`
 
 Notes:
 
